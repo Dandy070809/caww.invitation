@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Undangan Pernikahan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="undangan-container">
+        <header>
+            <h1>Undangan Pernikahan</h1>
+            <p>Dengan Hormat, Kami Mengundang Anda untuk Merayakan Hari Bahagia Kami</p>
+        </header>
+        
+        <section class="details">
+            <h2>Informasi Acara</h2>
+            <ul>
+                <li><strong>Nama Pengantin Pria:</strong> John Doe</li>
+                <li><strong>Nama Pengantin Wanita:</strong> Jane Smith</li>
+                <li><strong>Tanggal:</strong> 25 Desember 2024</li>
+                <li><strong>Waktu:</strong> 10:00 WIB</li>
+                <li><strong>Lokasi:</strong> Hotel Grand Ballroom, Jakarta</li>
+            </ul>
+        </section>
+
+        <section class="rsvp">
+            <h2>Konfirmasi Kehadiran</h2>
+            <p>Harap konfirmasi kehadiran Anda sebelum 20 Desember 2024.</p>
+            <a href="mailto:rsvp@example.com?subject=Konfirmasi Kehadiran" class="rsvp-button">Konfirmasi Kehadiran</a>
+        </section>
+
+        <footer>
+            <p>Terima kasih atas perhatian dan doa restu Anda.</p>
+        </footer>
+    </div>
+</body>
+</html>
